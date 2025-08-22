@@ -8,7 +8,6 @@
 - All payment data handled via Stripe (PCI DSS Level 1)
 - No card data stored on our servers
 - HTTPS enforced across all endpoints
-- Tokenization used for user sessions
 
 ## Omissions & Trade-offs
 - Skipped real-time taxi tracking for MVP
